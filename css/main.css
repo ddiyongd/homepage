@@ -63,11 +63,11 @@ html{
 }
 .side-bar{
   border-radius: 10px;
-  transform: translate(calc(var(--side-width)*-0.8),0);
+  transform: translate(calc(var(--side-width)*-0.7),0);
   transition: 0.5s;
 }
 .side-bar:hover{
-  transform: translate(-30px,0);
+  transform: translate(-20px,0);
 }
 .article{
   padding-left: 60px;
