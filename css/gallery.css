@@ -1,0 +1,16 @@
+.pictures{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+.pictures > img{
+  width: 40%;
+  margin: auto;
+  margin-top: 25px;
+  transform: translate3d(0,0,0);
+  transition: 0.2s;
+}
+.pictures > img:hover{
+  transform: translate3d(0,-20px,0);
+}

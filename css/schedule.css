@@ -1,0 +1,24 @@
+.sch >a> img{
+  width: 95%;
+  margin: auto;
+  transition: 0.3s;
+}
+.sch > a > img:hover{
+  width: 100%
+}
+.sch > img{
+  width: 100%
+}
+.sch > p{
+  margin: 0px;
+  padding: 0px;
+  margin-left: 20px;
+  font-size: 16px;
+  text-align: left;
+}
+.sch{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
