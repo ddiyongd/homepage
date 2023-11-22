@@ -1,3 +1,11 @@
-#food > .fo > p{
-  font-size: 2em;
+#food > .fo1 > p{
+  font-size: 1.3em;
+  background-color: #d7eef9;
+}
+#food > .fo2 > p{
+  font-size: 1.3em;
+  background-color: #d7eef9;
+}
+#food{
+  margin: 10px;
 }
